@@ -2,10 +2,6 @@
 Perfil Leticia Rodrigues | Tema rosa neon & preto | Flores no título
 -->
 
-<p align="center">
-  <img src="COLE_O_LINK_DA_SUA_IMAGEM_AQUI" alt="Avatar Leticia" width="170" style="border-radius: 50%; box-shadow: 0 0 60px #ff1e8d;">
-</p>
-
 <h1 align="center" style="color:#ff1e8d; text-shadow: 0 0 16px #ff1e8d;">
   🌸 Leticia Rodrigues 🌸
 </h1>
